@@ -1,5 +1,8 @@
 {
   "quietStartup": true,
   "defaultProvider": "ollama-cloud",
-  "defaultModel": "gemma4:31b"
+  "defaultModel": "gemma4:31b",
+  "packages": [
+    "npm:pi-ollama-cloud"
+  ]
 }
