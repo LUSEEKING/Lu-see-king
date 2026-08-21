@@ -1,3 +1,5 @@
 {
-  "quietStartup": true
+  "quietStartup": true,
+  "defaultProvider": "ollama-cloud",
+  "defaultModel": "gemma4:31b"
 }
